@@ -105,10 +105,10 @@ analytics:
 # Site Author
 author:
   name             : "KYUNGEUN KIM"
-  avatar           : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.chosun.com%2Fsite%2Fdata%2Fhtml_dir%2F2016%2F10%2F21%2F2016102101383.html&psig=AOvVaw1vwfhtsEeXhqRSilWMGITn&ust=1685966016241000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiyqoHHqf8CFQAAAAAdAAAAABAD"
+  avatar           : "https://namu.wiki/jump/ZI3XbKL7In3vFm8qRlPzvvLIVIcA4sOPR8RavMxcekl9xN%2BDfzwvsyNYcD2R6jxg"
   bio              : "Backend Developer"
   location         : "Somewhere"
-  email            : 
+  email            : "xxoxec@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
