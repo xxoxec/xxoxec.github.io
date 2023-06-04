@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "KYUNGEUN KIM"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.chosun.com%2Fsite%2Fdata%2Fhtml_dir%2F2016%2F10%2F21%2F2016102101383.html&psig=AOvVaw1vwfhtsEeXhqRSilWMGITn&ust=1685966016241000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiyqoHHqf8CFQAAAAAdAAAAABAD"
   bio              : "Backend Developer"
   location         : "Somewhere"
   email            : 
