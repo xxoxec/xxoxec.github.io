@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Title"
-title_separator          : "-"
+locale                   : "ko-KR"
+title                    : "xxo"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : 
-description              : "An amazing website."
+name                     : xxo
+description              : "Kyungeun blog"
 url                      : https://xxoxec.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,7 +107,7 @@ author:
   name             : "KYUNGEUN KIM"
   avatar           : "https://images.chosun.com/resizer/PpO6bWHMVG_AgS3UQkQBXhXaaVI=/350x350/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UD7SPBNDDZUWFUOLLANCSOF65U.jpg"
   bio              : "Backend Developer"
-  location         : "Somewhere"
+  location         : "south Korea"
   email            : 
   links:
     - label: "Email"
